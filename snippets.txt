@@ -1,0 +1,23 @@
+<!-- -->
+<section id="portfolio"> 
+            <div class="content-box-">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-*">
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+   </section>
+    <!-- ends  -->
+
+
+<div class="vertical-heading">
+                            <h5>Who We Are</h5>
+                            <h2>What Our <br><strong>Customers </strong>Say</h2>
+                        </div>
+
+<div id="pricing-btn">
+                                <a class="btn btn-general btn-yellow" href="" title="Get Started" role="button">Get Started</a>
+                            </div>
